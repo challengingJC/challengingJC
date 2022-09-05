@@ -19,12 +19,12 @@ verilog와 systemverilog를 이용해 I2C인터페이스 구현 및 성능 개�
 - 광운대학교 - 전기공학 전공 (2018년 3월 - 2024년 2월)
 
 ### <u>성과</u>  
-####I2C 관련 논문  
-   > 소속: NICS Design Lab
-   > 기간: 2022.08.22 ~ 2022.10.14
-   > 주 사용 기술: Verilog, SystemVerilog, VCS
-   > 논문 소개:
-   > 수행 역할:
+#### I2C 관련 논문  
+- 소속: NICS Design Lab
+- 기간: 2022.08.22 ~ 2022.10.14
+- 주 사용 기술: Verilog, SystemVerilog, VCS
+- 논문 소개:
+- 수행 역할:  
 
 결과물: 대한전자공학회 2022년 추계학술대회  
 
