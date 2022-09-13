@@ -19,7 +19,8 @@ verilog와 systemverilog를 이용해 I2C인터페이스 구현 및 성능 개�
    > 교내 전기과 전력전자 연구실주관 교육/ 60시간
 ### <u>학력</u>  
 - 광운대학교 - 전기공학 전공 (2018년 3월 - 2024년 2월)
-
+### <u>어학능력</u>
+- 오픽 IL 유효기간 (2023년 1월 - 2024년 12월)
 ### <u>성과</u>  
 #### I2C 관련 논문  
 - 소속: NICS Design Lab
@@ -49,7 +50,10 @@ verilog와 systemverilog를 이용해 I2C인터페이스 구현 및 성능 개�
 
 ---
 미래에 채우기 위한 To do list
-<img width="80%" src="https://github.com/challengingJC/challengingJC/blob/86bf3c0a3b52ff450e2c3dfa214530665ec7d351/%ED%8A%B8%EB%A0%90%EB%A1%9C%EB%B0%B0%EA%B2%BD2.jpg"/>
+<img width="80%" src="https://github.com/challengingJC/challengingJC/blob/455493181f4dacab61c6c7a07fe8cca586f951de/%ED%8A%B8%EB%A0%90%EB%A1%9Ctodo%EB%A6%AC%EC%8A%A4%ED%8A%B8.jpg"/>
+
+
+
 To do list 링크>>https://trello.com/invite/b/3SC1ZmJv/eff153ce051c277dab67fd9cb2691744/study
 <!---
 challengingJC/challengingJC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
