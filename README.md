@@ -1,6 +1,4 @@
 # Resume 2022.9
-<img width="80%" src="https://github.com/challengingJC/challengingJC/blob/86bf3c0a3b52ff450e2c3dfa214530665ec7d351/%ED%8A%B8%EB%A0%90%EB%A1%9C%EB%B0%B0%EA%B2%BD2.jpg"/>
-
 
 ### 이준철
 ---
@@ -51,8 +49,8 @@ verilog와 systemverilog를 이용해 I2C인터페이스 구현 및 성능 개�
 
 ---
 미래에 채우기 위한 To do list
-
-
+<img width="80%" src="https://github.com/challengingJC/challengingJC/blob/86bf3c0a3b52ff450e2c3dfa214530665ec7d351/%ED%8A%B8%EB%A0%90%EB%A1%9C%EB%B0%B0%EA%B2%BD2.jpg"/>
+To do list 링크>>https://trello.com/invite/b/3SC1ZmJv/eff153ce051c277dab67fd9cb2691744/study
 <!---
 challengingJC/challengingJC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
