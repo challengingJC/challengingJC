@@ -5,7 +5,7 @@
 안녕하세요, 디지털 회로 설계 엔지니어가 되고 싶은 이준철 입니다.  
 verilog와 systemverilog를 이용해 I2C인터페이스 구현 및 성능 개선에 관한 연구를 하고 있습니다.  
 대한전자공학회 2022년 추계학술대회에 참여하는 것을 목표로 하고 있습니다.
-
+ㅇㅇ
 
 ### <u>경력</u>
 - NICS, KwangWoonUniversity - Undergraduate (2022년 7월 6일 - 현재)  
